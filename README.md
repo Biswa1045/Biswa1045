@@ -1,16 +1,14 @@
-### Hi there 👋
+- 👋 Hi, I’m @Biswa1045
+- 👀 I’m interested in ...web development
+- 🌱 I’m currently learning ...NextJS <-- Currently at Next Auth
+- ⚛️ Mainly learning React framework and tried my hand on Svelte/SvelteKit framework and for styling I mostly use TailwindCSS
+- 💞️ I’m looking to collaborate on ...any projects related to vanilla JavaScript, React or Svelte
+- 📫 How to reach me ...ajempire09@gmail.com
 
-<!--
-**Biswa1045/Biswa1045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Biswa1045&show_icons=true&theme=cobalt)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa1045&layout=compact&theme=cobalt)](https://github.com/Biswa1045/github-readme-stats)
+<!---
+killerdroid99/killerdroid99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
