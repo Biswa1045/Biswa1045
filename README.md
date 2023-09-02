@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Biswa1045
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...NextJS <-- Currently at Next Auth
-- ⚛️ Mainly learning React framework and tried my hand on Svelte/SvelteKit framework and for styling I mostly use TailwindCSS
-- 💞️ I’m looking to collaborate on ...any projects related to vanilla JavaScript, React or Svelte
-- 📫 How to reach me ...ajempire09@gmail.com
+- 👀 I’m interested in ...Android / web development
+- 🌱 I’m currently learning ...ReactJS
+- 📫 Biswajitsahu1045@gmail.com
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Biswa1045&show_icons=true&theme=cobalt)
 
