@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Biswa1045
-- 👀 I’m interested in ...Android / web development
-- 🌱 I’m currently learning ...ReactJS
+- 👋 Hi, I’m Biswajit
+- 👀 I’m interested in building anything
+- 🌱 I’m currently learning ...Everything
 - 📫 Biswajitsahu1045@gmail.com
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Biswa1045&show_icons=true&theme=cobalt)
