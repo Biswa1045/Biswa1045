@@ -2,9 +2,7 @@
 - 👀 I’m interested in building anything
 - 🌱 I’m currently learning ...Everything
 - 📫 Biswajitsahu1045@gmail.com
+- linkedin.com/in/biswajit-1045s
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa1045&layout=compact&theme=cobalt)](https://github.com/Biswa1045/github-readme-stats)
-<!---
-killerdroid99/killerdroid99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tech Stack
+![Skills](https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,flutter,androidstudio,aws,googlecloud,firebase,mongodb,mysql,arduino,docker,jenkins,git,linux,postman)
